@@ -7,8 +7,8 @@
 // ==/UserScript==
 
 var css = new Array();
-var boxHeight = "300px";
-var boxWidth = "1000px";
+var boxHeight = "450px";
+var boxWidth = "500px";
 var fontSize = "2em";
 
 function writeStyle(css) {
